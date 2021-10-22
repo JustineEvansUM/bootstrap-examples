@@ -2,7 +2,7 @@
 layout: docs
 title: License FAQs
 description: Commonly asked questions about Bootstrap's open source license.
-group: about
+#group: about
 ---
 
 Bootstrap is released under the MIT license and is copyright {{ site.time | date: "%Y" }} Twitter. Boiled down to smaller chunks, it can be described with the following conditions.

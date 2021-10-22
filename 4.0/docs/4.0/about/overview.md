@@ -6,7 +6,7 @@ redirect_from:
   - "/docs/4.0/about/"
   - "/docs/4.0/history/"
   - "/docs/4.0/team/"
-group: about
+#group: about
 ---
 
 ## Team
